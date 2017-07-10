@@ -14,12 +14,11 @@
   npm run build<br/>
 
 # 下载  
-  可以使用 git clone https://github.com/xiajun123456/new-master 下载项目<br/>
+  可以使用 git clone https://github.com/xiajun123456/vueApp 下载项目<br/>
 
 # 使用插件<br/>
-ui插件 element-UI<br/>
-表单验证 vue-form<br/>
+ui插件 mint-ui<br/>
 路由 vue-router<br/>
 ajax请求 axios<br/>
-本地存储 store<br/>
+本地存储 vux<br/>
 
