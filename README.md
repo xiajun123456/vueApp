@@ -11,7 +11,7 @@
    npm run mock<br/>
 
  ## 生产环境<br/> 
-  npm run build<br/>
+  npm run build 在dist目录下的pord<br/>
 
 # 下载  
   可以使用 git clone https://github.com/xiajun123456/vueApp 下载项目<br/>
