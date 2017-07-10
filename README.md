@@ -1,4 +1,4 @@
-# webpack 配置vue2.0的一个开发环境 和项目架子<br/>
+# vue2.0的一个app 大概20个页面<br/>
 
 # 使用<br/>
    npm install<br>
